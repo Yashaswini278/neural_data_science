@@ -1,6 +1,6 @@
 # Neural Data Science 
 
-This repository contains the programming labs and lecture notes for the lecture "Neural Data Science" tought at [University of Tübingen](www.uni-tuebingen.de) in the summer term 2021.
+This repository contains the programming labs and lecture notes for the lecture "Neural Data Science" taught at [University of Tübingen](www.uni-tuebingen.de) in the summer term 2021.
 
 ![thumbnail](thumbnail.png)
 
